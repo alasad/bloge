@@ -1,0 +1,6 @@
+F:\asad\bloge\bloge\bin\bloge.dll.config
+F:\asad\bloge\bloge\bin\bloge.dll
+F:\asad\bloge\bloge\bin\bloge.pdb
+F:\asad\bloge\bloge\obj\Debug\bloge.csprojResolveAssemblyReference.cache
+F:\asad\bloge\bloge\obj\Debug\bloge.dll
+F:\asad\bloge\bloge\obj\Debug\bloge.pdb
